@@ -17,7 +17,7 @@ entry_points = {
 
 setup(
     name='pyramid_bpython_curses',
-    version='0.1',
+    version='0.1.1',
     description='pyramid bpython curses pshell',
     long_description=README,
     author='Iivari Mokelainen',

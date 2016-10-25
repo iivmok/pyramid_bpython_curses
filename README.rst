@@ -1,8 +1,8 @@
 pyramid_bpython_curses
-===============
+======================
 
 `bpython <http://bpython-interpreter.org/>`_ bindings for
-`Pyramid <http://docs.pylonsproject.org/en/latest/docs/pyramid.html>`_ in curses varian (for Windows).
+`Pyramid <http://docs.pylonsproject.org/en/latest/docs/pyramid.html>`_ in a curses variant (for Windows).
 
 Installation
 ------------
